@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/persja_vu.gif" alt="PersjaVu" width="600" />
+</p>
+
 ## Hi there 👋
 
 <!--
